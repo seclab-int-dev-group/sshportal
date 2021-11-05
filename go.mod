@@ -20,7 +20,7 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sabban/bastion v0.0.0-20180110125408-b9d3c9b1f4d3
-	github.com/smartystreets/goconvey v1.6.6
+	github.com/smartystreets/goconvey v1.7.2
 	github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502
 	github.com/urfave/cli v1.22.5
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
@@ -29,7 +29,7 @@ require (
 	gorm.io/driver/mysql v1.1.3
 	gorm.io/driver/postgres v1.2.1
 	gorm.io/driver/sqlite v1.2.3
-	gorm.io/gorm v1.22.0
+	gorm.io/gorm v1.22.2
 	moul.io/srand v1.6.1
 )
 
